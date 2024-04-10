@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guessing-game/static/css/main.2e5f34ae.css",
+    "main.js": "/guessing-game/static/js/main.79b4f8b7.js",
+    "index.html": "/guessing-game/index.html",
+    "main.2e5f34ae.css.map": "/guessing-game/static/css/main.2e5f34ae.css.map",
+    "main.79b4f8b7.js.map": "/guessing-game/static/js/main.79b4f8b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5f34ae.css",
+    "static/js/main.79b4f8b7.js"
+  ]
+}
